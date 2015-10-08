@@ -1,0 +1,15 @@
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text01.tg > ~/corpus/data_twitter201301/201301_preprocess/text01.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text02.tg > ~/corpus/data_twitter201301/201301_preprocess/text02.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text03.tg > ~/corpus/data_twitter201301/201301_preprocess/text03.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text04.tg > ~/corpus/data_twitter201301/201301_preprocess/text04.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text05.tg > ~/corpus/data_twitter201301/201301_preprocess/text05.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text06.tg > ~/corpus/data_twitter201301/201301_preprocess/text06.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text07.tg > ~/corpus/data_twitter201301/201301_preprocess/text07.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text08.tg > ~/corpus/data_twitter201301/201301_preprocess/text08.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text09.tg > ~/corpus/data_twitter201301/201301_preprocess/text09.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text10.tg > ~/corpus/data_twitter201301/201301_preprocess/text10.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text11.tg > ~/corpus/data_twitter201301/201301_preprocess/text11.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text12.tg > ~/corpus/data_twitter201301/201301_preprocess/text12.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text13.tg > ~/corpus/data_twitter201301/201301_preprocess/text13.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text14.tg > ~/corpus/data_twitter201301/201301_preprocess/text14.Tag &
+python sheffieldPosOut2Standard.py ~/corpus/data_twitter201301/201301_preprocess/text15.tg > ~/corpus/data_twitter201301/201301_preprocess/text15.Tag &
