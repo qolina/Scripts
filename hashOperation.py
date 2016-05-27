@@ -33,3 +33,16 @@ def output_sortedHash(hash, sortField, reversedFlag):
     for item in sortedList:
         print item[0], "\t", item[1]
 
+
+# appHash: key:app
+# app: val:cumuStep
+def updateAppHash(appHash, key, val, cumuStep):
+    app = {}
+    if key in appHash:
+        app = appHash[key]
+
+    cumulativeInsert(app, val, cumuStep)
+    appHash[key] = app
+    return appHash
+
+

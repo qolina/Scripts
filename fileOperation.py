@@ -4,7 +4,7 @@ import sys
 
 ## load stop words
 def loadStopword(stopwordsFilePath):
-    stopwordHash = []
+    stopwordHash = {}
     stopFile = file(stopwordsFilePath)
     while True:
         lineStr = stopFile.readline()
@@ -13,5 +13,6 @@ def loadStopword(stopwordsFilePath):
             break
         stopwordHash[lineStr[:-1].strip()] = 1
     stopFile.close()
+    return stopwordHash
 
 
