@@ -25,6 +25,8 @@ def joint_with_sortedHash(sortedList, hash):
 
 
 def sortHash(hash, sortField, reversedFlag):
+    if hash is None:
+        return None
     sortedList = sorted(hash.items(), key = lambda a:a[sortField], reverse=reversedFlag)
     return sortedList
 
@@ -45,4 +47,9 @@ def updateAppHash(appHash, key, val, cumuStep):
     appHash[key] = app
     return appHash
 
+
+# two list contain at least one same item
+def hasSameKey_le1_inlist(itemList1, itemList2):
+    commonList = [item for item in itemList1 if item in itemList2]
+    return len(commonList)
 

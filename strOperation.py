@@ -71,6 +71,16 @@ def copulas2be(word):
 def float_ratio(number):
     return float("%.2f"%number)
 
+def replaceSpecialChar(egStr):
+    egStr = re.sub(u"\u2026", "...", egStr)
+    egStr = re.sub(u"\u2019|\u2018", "'", egStr)
+    egStr = re.sub(u"\xa0", " ", egStr)
+    egStr = re.sub(u"\ufffd|\U0001f449|\u25ba|\U0001f49f|\xa2|\U0001f4af|\U0001f608|\U0001f44c", "", egStr)
+    egStr = re.sub(u"\u201c|\u201d", "'", egStr)
+    egStr = re.sub(u"\u2013|\u2014", "-", egStr)
+    egStr = re.sub(u"\u2022", ".", egStr)
+    return egStr
+
 def add_space_before_puncsInStr(egStr):
     if egStr.startswith("http"):
         return egStr

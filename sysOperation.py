@@ -1,4 +1,4 @@
-import sys
+
 
 def getArg(args, flag):
     arg = None
@@ -17,7 +17,3 @@ def parseArgs_eg(args):
     return jsonFileName, outFileName_tweetText, outFileName_tweetStruct
 
 
-if __name__ == "main":
-    print "Usage: python test.py -json jsonFilename [-textOut textOutput] [-struct structOutput]"
-
-    [jsonFileName, outFileName_tweetText, outFileName_tweetStruct] = parseArgs_eg(sys.argv)
