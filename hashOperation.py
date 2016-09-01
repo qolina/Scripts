@@ -53,3 +53,13 @@ def hasSameKey_le1_inlist(itemList1, itemList2):
     commonList = [item for item in itemList1 if item in itemList2]
     return len(commonList)
 
+
+# statistic num of items whose value in valArr
+def statisticHash(hash, valArr):
+    numArr = []
+    for val in valArr[:-1]:
+        itemList = [item for item in hash if hash[item] == val]
+        numArr.append(len(itemList))
+    numArr.append(len([item for item in hash if hash[item] >= valArr[-1]]))
+    return numArr
+
