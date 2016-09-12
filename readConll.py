@@ -16,7 +16,8 @@ def read_conll_file(filename):
 
     contents = "###".join(contents).strip("###")
     contents = contents.split(r"######")
-#    print contents
+    print len(contents)
+    print "\n".join(contents)
     sentences_conll = []
     for line in contents:
         wordItems = line.split(r"###") # each word_conllOut as one item
@@ -24,7 +25,7 @@ def read_conll_file(filename):
 #        print wordItems
         sentences_conll.append(np.array(wordItems))
 
-    print "### ", len(sentences_conll), " sentences are loaded from parsedtext", filename
+    print "##End of reading file.[parsed text file for depLink_mwe]  total sents: ", len(sentences_conll), filename
     return sentences_conll
 
 def get_dep_links_in_a_sent(sent):
