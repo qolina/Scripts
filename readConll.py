@@ -16,8 +16,8 @@ def read_conll_file(filename):
 
     contents = "###".join(contents).strip("###")
     contents = contents.split(r"######")
-    print len(contents)
-    print "\n".join(contents)
+    #print len(contents)
+    #print "\n".join(contents)
     sentences_conll = []
     for line in contents:
         wordItems = line.split(r"###") # each word_conllOut as one item
@@ -38,6 +38,7 @@ def get_dep_links_in_a_sent(sent):
     dep_links = zip(idxs, dep_idxs)
     dep_links = [item for item in dep_links if item[1] >= 0]
 
+    #print " ".join([wordItem[1] for wordItem in sent])
 #    print sent
 #    print sent.shape
 #    print idxs
@@ -113,6 +114,7 @@ if __name__ == "__main__":
 
     sentences_conll = read_conll_file(conll_filename)
     dep_link_list = get_dep_links(sentences_conll)
-    mwe_list = get_mwes(sentences_conll)
+    mwe_hash = get_mwes(sentences_conll)
+    print len(dep_link_list), len(mwe_hash)
 
 
