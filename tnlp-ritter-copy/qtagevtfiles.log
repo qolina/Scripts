@@ -1,0 +1,313 @@
+main thread: create g_vThread[0]=1101449552
+main thread: create g_vThread[1]=1111939408
+main thread: create g_vThread[2]=1122429264
+main thread: create g_vThread[3]=1132919120
+main thread: create g_vThread[4]=1143408976
+main thread: create g_vThread[5]=1153898832
+main thread: create g_vThread[6]=1164388688
+main thread: create g_vThread[7]=1174878544
+main thread: create g_vThread[8]=1185368400
+main thread: create g_vThread[9]=1195858256
+main thread: create g_vThread[10]=1206348112
+main thread: create g_vThread[11]=1216837968
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-00&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-01&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-02&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-03&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-04&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-05&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-06&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-07&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-00&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-01&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-02&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-03&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-07&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-04&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-03&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-05&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-00&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-06&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-02&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-07&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-01&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-08&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-00&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-09&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-05&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-10&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-01&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-00&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-06&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-01&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-04&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-02&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-03&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-03&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text02-02&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-04&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-04&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-05&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-10&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-06&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-08&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-07&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-01&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-08&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-05&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-09&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-00&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-10&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-06&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-00&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-07&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-01&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text03-09&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-02&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-02&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-03&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-03&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-04&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-04&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-05&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-05&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-06&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-10&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-07&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-06&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-08&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-03&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-09&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-01&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-10&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-02&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-00&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-00&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-01&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-09&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-02&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-08&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-03&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-04&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-04&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text04-07&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-05&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-05&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-06&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-06&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-07&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-10&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-08&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-07&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-09&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-08&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-10&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text05-09&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-00&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-02&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-01&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-01&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-02&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-03&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-03&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-00&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-04&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-04&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-05&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-05&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-06&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-06&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-07&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-07&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-08&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-08&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-09&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-10&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-00&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text06-09&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-01&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-02&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-02&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-01&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-03&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-00&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-04&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-03&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-05&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-04&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-06&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-05&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-07&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-06&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-08&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-07&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-09&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-09&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-10&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text07-08&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-00&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-00&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-01&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-01&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-02&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-10&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-03&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-02&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-04&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-03&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-05&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-04&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-06&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-05&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-07&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-06&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-08&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-07&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-09&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-08&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-10&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text08-09&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-00&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-00&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-01&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-01&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-02&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-10&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-03&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-02&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-04&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-03&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-05&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-05&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-06&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-04&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-07&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-06&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-08&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-07&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-00&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-08&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-01&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text09-09&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-02&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-00&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-03&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-01&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-04&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-02&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-05&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-03&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-06&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-04&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-07&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-05&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-08&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-07&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-09&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-08&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-00&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text10-06&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-01&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-00&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-02&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-01&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-03&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-02&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-04&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-03&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-05&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-04&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-06&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-05&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-07&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-06&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-00&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-09&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-01&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-07&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-02&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text11-08&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-03&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-07&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-04&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-01&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-05&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-02&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-06&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-00&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-07&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-03&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-08&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-08&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-00&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-04&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-01&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-05&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-02&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text12-06&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-03&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-00&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-04&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-01&
+thread 0: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-05&
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-02&
+thread 1: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-06&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-03&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-07&
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-04&
+thread 11: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-00&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-06&
+thread 10: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-01&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-05&
+thread 6: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-02&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text13-07&
+thread 2: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-03&
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-07&
+thread 7: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-04&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-00&
+thread 9: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-05&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-01&
+thread 5: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-06&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-02&
+thread 3: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-07&
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-03&
+thread 4: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-08&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-04&
+thread 8: get command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-09&
+thread 0: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-05&
+thread 0: get command: &#exit&
+main thread: joined g_vThread[0]=1101449552
+thread 1: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text14-06&
+thread 1: get command: &#exit&
+main thread: joined g_vThread[1]=1111939408
+thread 11: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-00&
+thread 11: get command: &#exit&
+thread 10: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-01&
+thread 10: get command: &#exit&
+thread 6: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-02&
+thread 6: get command: &#exit&
+thread 2: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-03&
+thread 2: get command: &#exit&
+main thread: joined g_vThread[2]=1122429264
+thread 7: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-04&
+thread 7: get command: &#exit&
+thread 9: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-05&
+thread 9: get command: &#exit&
+thread 8: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-09&
+thread 8: get command: &#exit&
+thread 5: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-06&
+thread 5: get command: &#exit&
+thread 3: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-07&
+thread 3: get command: &#exit&
+main thread: joined g_vThread[3]=1132919120
+thread 4: execute done command: &sh tagevtforfile.sh /home/yxqin/corpus/data_twitter201301/201301_preprocess/split/text15-08&
+thread 4: get command: &#exit&
+main thread: joined g_vThread[4]=1143408976
+main thread: joined g_vThread[5]=1153898832
+main thread: joined g_vThread[6]=1164388688
+main thread: joined g_vThread[7]=1174878544
+main thread: joined g_vThread[8]=1185368400
+main thread: joined g_vThread[9]=1195858256
+main thread: joined g_vThread[10]=1206348112
+main thread: joined g_vThread[11]=1216837968
+main thread: all threads exited normally, I am exiting, bye
